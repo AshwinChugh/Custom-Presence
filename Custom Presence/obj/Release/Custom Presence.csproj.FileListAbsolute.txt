@@ -1,0 +1,11 @@
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\bin\Release\Custom Presence.exe.config
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\bin\Release\Custom Presence.exe
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\bin\Release\Custom Presence.pdb
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\bin\Release\DiscordRPC.xml
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\bin\Release\Newtonsoft.Json.xml
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\obj\Release\Custom Presence.csproj.CoreCompileInputs.cache
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\obj\Release\Custom Presence.csproj.Fody.CopyLocal.cache
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\obj\Release\Custom Presence.csproj.CopyComplete
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\obj\Release\Custom Presence.exe
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\obj\Release\Custom Presence.pdb
+C:\Users\chugh\source\repos\Custom Presence\Custom Presence\obj\Release\Custom Presence.csprojAssemblyReference.cache
