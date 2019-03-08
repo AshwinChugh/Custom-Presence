@@ -24,7 +24,7 @@ namespace Custom_Presence
 
         private static int _discordPipe = -1;
 
-        private static string _ClientID = "553307638146924588";
+        private static string _ClientID = "woah there buddy, dont think you're supposed to see this";
 
         private static LogLevel DiscordLogLevel = LogLevel.Info;
         //the actual presence itself
