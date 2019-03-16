@@ -67,7 +67,7 @@ namespace Custom_Presence
             }
             else if (response == "N" || response == "n")
             {
-                Console.WriteLine("Fine nigger.");
+                Console.WriteLine("Loading Default Configuration");
             }
             else
             {
