@@ -30,8 +30,8 @@ namespace Custom_Presence
         //the actual presence itself
         private static RichPresence presence = new RichPresence()
         {
-            Details = "Detroying Libtards",
-            State = "Libtards Rekt: ",
+            Details = "sample detail",
+            State = "Current State: ",
             Timestamps = Timestamps.Now,
             Assets = new Assets()
             {
