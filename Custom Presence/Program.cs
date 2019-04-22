@@ -35,10 +35,10 @@ namespace Custom_Presence
             Timestamps = Timestamps.Now,
             Assets = new Assets()
             {
-                LargeImageKey = "ben_shapiro",
-                LargeImageText = "Libtard Destroyer",
-                SmallImageKey = "yeet",
-                SmallImageText = "#Obliterated"
+                LargeImageKey = "sample string",
+                LargeImageText = "sample string",
+                SmallImageKey = "sample string",
+                SmallImageText = "sample string"
             }
         };
 
@@ -99,7 +99,7 @@ namespace Custom_Presence
             {
                 ID = Secrets.CreateSecret(new Random()),
                 Max = 1337,
-                Size = 666
+                Size = 847
             };
             mainPresence();
         }
